@@ -1,0 +1,23 @@
+{
+  "name": "com.lukebradaric.gamestate",
+  "version": "1.0.1",
+  "displayName": "GameState",
+  "description": "ScriptableObject single GameState based Save/Load system.",
+  "unity": "2018.1",
+  "documentationUrl": "https://github.com/lukebradaric/gamestate",
+  "changelogUrl": "https://github.com/lukebradaric/gamestate/releases",
+  "licensesUrl": "https://github.com/lukebradaric/gamestate/blob/main/LICENSE",
+  "keywords": [
+    "lightweight",
+    "saving",
+    "loading",
+    "saveload",
+    "scriptableobject",
+    "tools"
+  ],
+  "author": {
+    "name": "Luke Bradaric",
+    "email": "lukebradaric@gmail.com",
+    "url": "https://lukebradaric.com/"
+  }
+}
